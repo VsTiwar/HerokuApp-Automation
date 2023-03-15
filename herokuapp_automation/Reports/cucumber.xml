@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.458373">
+<testcase classname="Regression test cases" name="C00003-Navigate to basic auth link" time="18.458373">
+<system-out><![CDATA[When User launched URL......................................................passed
+And get the all link........................................................passed
+And Navigate to basic auth link.............................................passed
+And Verify the element on auth link.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

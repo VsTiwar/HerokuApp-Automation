@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtlink</name>
+   <tag></tag>
+   <elementGuidId>51166e6b-7181-45d9-904b-45632d94488e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='example']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='example']/p</value>
+      <webElementGuid>dfa29afd-ff65-4c61-82e6-445d167fa9ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
